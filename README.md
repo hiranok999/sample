@@ -1,22 +1,22 @@
 # sample
 導入用
-*build
-...
+* build
+,,,
 docker-compose build
-...
+,,,
 
-*up
-...
+* up
+,,,
 docker-compose up -d
-...
+,,,
 
-*down
-...
+* down
+,,,
 docker-compose down
-...
+,,,
 
-*image to string
-...
+* image to string
+,,,
 docker exec -it python3 bush
 python sample.py
-...
+,,,
