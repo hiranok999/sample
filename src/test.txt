@@ -1,0 +1,23 @@
+Will use tool 'Tesseract (sh)'
+Available languages: eng, jpn, osd
+Will use lang 'eng'
+<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=2810x1570 at 0x7FD536572F70>
+fa Read Watch® €)Star | 135,156
+
+Developer Roadmaps
+
+Step by step guides and paths to learn different tools or technologies
+
+ean Wey PU Pe aU) oy i)
+
+Frontend Backend DevOps
+
+Step by step guide to becoming a modern Step by step guide to becoming a modern Step by step guide to become an SRE or for any
+frontend developer in 2020 backend developer in 2020 operations role in 2020
+
+Android PostgreSQL DBA React
+
+Step by step guide to becoming a modern Step by step guide to becoming a modern Everything that is there to learn about React and
+Android Developer in 2020 PostgreSQL DBA in 2020 the ecosystem in 2020.
+
+QA Engineer
